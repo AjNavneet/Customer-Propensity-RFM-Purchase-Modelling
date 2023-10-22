@@ -5,7 +5,7 @@ Our Client is an early-stage e-commerce company selling various products from da
 
 ---
 
-## Introduction
+## Objective
 This project focuses on building a Propensity to Purchase Model using Python, with a primary objective of improving user engagement and ROI. We employ Propensity Modeling and RFM (Recency, Frequency, Monetary) Analysis to predict users' likelihood of making a purchase and to identify high-value customer segments.
 
 ---
