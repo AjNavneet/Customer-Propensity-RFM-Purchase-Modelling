@@ -1,0 +1,4 @@
+data_path: /modular_code/input/final_customer_data.xlsx
+final_data_path: modular_code/input/final_customer_data_with_RFM_features.csv
+test_size: 0.3
+random_state: 123
