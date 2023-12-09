@@ -43,7 +43,7 @@ The dataset contains purchase history data for an e-commerce company over a peri
 
 ---
 
-## Project Structure
+## Code Structure
 - `input`: Contains data and configuration files.
    - `config.yaml`: Configuration parameters.
    - `final_customer_data.xlsx`: Customer transaction data.
@@ -55,21 +55,6 @@ The dataset contains purchase history data for an e-commerce company over a peri
    - `requirements.txt`: List of required packages.
 - `output`: Stores the trained model for future use.
 - `lib`: Reference notebooks from the project.
-
-## Concepts Explored
-
-1. Understanding propensity modeling.
-2. Univariate and multivariate analysis.
-3. Data preprocessing techniques.
-4. Understanding RFM modeling.
-5. Extracting RFM features.
-6. Calculating RFM rankings.
-7. Plotting graphs using Matplotlib and Seaborn.
-8. Feature engineering and encoding categorical variables.
-9. Data scaling and transformation.
-10. Building a logistic regression model.
-11. Identifying propensity to purchase based on RFM features.
-12. Understanding preferential treatments and high-value paths.
 
 ---
 
